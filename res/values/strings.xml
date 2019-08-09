@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SoarCS</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_members">Members</string>
+    <string name="title_activity_activities">Activities</string>
+    <string name="title_activity_pictures">Pictures</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="title_activity_faculty">Team</string>
+    <string name="title_activity_acknowledgements">Acknowledgement</string>
+    <string name="team_names">*Fred Martin*  \n\n   *Sam Dodson*	\n\n	*Charlie Mirabile* \n\n *Jason Kiesling* \n\n    *Chris Odom* \n\n *Elena Izotova* \n\n  *Sam Patriquin*   \n\n   *Justin Lu*   \n\n   *Joel Slebodnick* \n\n  *John Swanson*  \n\n   *Foozieh Mir*   \n\n   *Sam Zuk*  </string>
+    <string name="members">*Nikhila Gubbala* \n\n *Mildred Kumah* \n\n *Jayla Galvez* \n\n *Katelyn Roseberry* \n\n *Alexan Chaprazian* \n\n *Durwin Wongwajarachot* \n\n *Jonathan Kang* \n\n *Dante Suarez* \n\n *James Leblanc* \n\n *Raj Vyas* \n\n *Zachary Le* \n\n * Gabriel Payan* \n\n Emilio Santos* \n\n *Ian Anderson* \n\n *Brian Hurtado* \n\n *Christopher Matias Pena* \n\n *Jeramaya Monteiro* \n\n *Gabriel Vega* \n\n *ELvin Colon* \n\n *Visoth Pen * \n\n *Mark Labelle* \n\n *Marcos Pagan* \n\n * Luis Guillermo* \n\n *Nicholas Matsuda* \n\n *Mohammed Kabir* \n\n *Robert Tullier* \n\n *Arek Wol* \n\n *Dunia Seidu* \n\n *Sakshi Baldawa </string>
+    <string name="day_1">Introduction \n Slack \n dive#1: microbit \n lunch \n dive#2: Cozmo robot \n check in to Usuites \n dinner</string>
+    <string name="day_2">dive #3: Virtual reality with MYR \n Hack.Diversity \n student \n lunch \n projects brainstorm \n NERVE Center \n Allen House reception and dinner </string>
+    <string name="day_3">Github intro \n project work \n meet with Dr. David Adams \n lunch \n project work \n meet with Meagan Sullivan and Sue ONeill \n project work \n dinner</string>
+    <string name="day_4">project work \n alumni panel \n lunch \n last project work \n projects expo \n next steps</string>
+    <string name="acknowledgements">We would like to say thank you to:</string>
+    <string name="acknowledgements_1"> Liz Cole </string>
+    <string name="acknowledgements_2"> Kerri Johnston, Kate Hennessy, Mai Nguyen, Clara Reynolds, Dawn Williams</string>
+    <string name="acknowledgements_3">Tom Clark, Giana Panagiotakos</string>
+    <string name="acknowledgements_4">Kimberly Sawyer 1989 \n Kennedy College of Sciences</string>
+    <string name="acknowledgements_5">Heidi Dempsey and Sarah Coghlan</string>
+    <string name="title_activity_member">Member</string>
+    <string name="title_activity_participants">Members</string>
+    <string name="title_activity_us">Pictures</string>
+
+</resources>

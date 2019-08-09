@@ -1,0 +1,113 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#CCCBFC" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin" >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F9A9A6"
+            android:gravity="center"
+            android:text="Activities"
+            android:textAlignment="center"
+            android:textSize="40dp"
+            android:textStyle="bold" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F9A9A6"
+            android:gravity="center"
+            android:layout_marginTop="30dp"
+            android:text="Day 1"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="@string/day_1"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F9A9A6"
+            android:gravity="center"
+            android:layout_marginTop="30dp"
+            android:text="Day 2"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="@string/day_2"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+        
+         <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F9A9A6"
+            android:gravity="center"
+            android:layout_marginTop="30dp"
+            android:text="Day 3"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="@string/day_3"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+        
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#F9A9A6"
+            android:gravity="center"
+            android:layout_marginTop="30dp"
+            android:text="Day 4"
+            android:textSize="25dp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center"
+            android:text="@string/day_4"
+            android:textAlignment="center"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+        
+
+        <Button
+            android:id="@+id/back4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Back" />
+    </LinearLayout>
+
+</ScrollView>

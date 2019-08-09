@@ -1,0 +1,95 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+<LinearLayout 
+    android:orientation="vertical"
+    android:background="@drawable/a"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+     >
+
+    <Button
+        android:id="@+id/faculty"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F9A9A6"
+        android:text="Faculty"
+        android:textSize="30sp"
+        android:textStyle="bold" 
+        />
+    
+    <Button
+        android:id="@+id/members"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F9A9A6"
+        android:text="Members"
+        android:textSize="30sp"
+        android:textStyle="bold" 
+        android:layout_marginTop="40dp"
+        />
+    
+     <Button
+        android:id="@+id/acknowledgements"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F9A9A6"
+        android:text="Acknowledgements"
+        android:textSize="30sp"
+        android:textStyle="bold" 
+        android:layout_marginTop="40dp"
+        />
+    
+    <Button
+        android:id="@+id/activities"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F9A9A6"
+        android:text="Activities"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        android:layout_marginTop="40dp"
+         />
+    
+    <Button
+        android:id="@+id/pic"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F9A9A6"
+        android:text="Pictures"
+        android:textSize="30sp"
+        android:textStyle="bold" 
+        android:layout_marginTop="40dp"
+        />
+    
+    <Button
+        android:id="@+id/contact"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F9A9A6"
+        android:text="Contact Us"
+        android:textSize="30sp"
+        android:textStyle="bold" 
+        android:layout_marginTop="40dp"
+        />
+    
+    <Button
+        android:id="@+id/about"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F9A9A6"
+        android:text="About Us"
+        android:textSize="30sp"
+        android:textStyle="bold" 
+        android:layout_marginTop="40dp"
+        />
+    
+
+</LinearLayout>
+
+</ScrollView>
